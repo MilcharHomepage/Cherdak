@@ -1,0 +1,12 @@
+A:link, A:visited, A:active {font-weight: bold; text-decoration: none; font-family: Comic Sans MS; color: #BBAA40}
+A.o:link, A.o:visited, A.o:active {font-weight: bold; text-decoration: none; font-family: Comic Sans MS; color: #E08020}
+H1 {color: #DD0033; font-family: Comic Sans MS}
+H2 {color: #BB88EE; font-family: Comic Sans MS}
+H3 {color: #BB88EE; font-family: Comic Sans MS}
+BODY {color: #BBAAAA; background-color: #301238; font-family: Comic Sans MS}
+.v {color: #BB88EE}
+.r {color: #DD0033}
+.l {color: #000000; background-color: #9966CC; font-family: Comic Sans MS, Courier New}
+.m {font-family: Comic Sans MS, Courier New}
+.s1, .s2 {background-color: #482456; font-family: Comic Sans MS, Courier New}
+PRE {font-family: Lucida Sans Unicode, Fixedsys, Courier, Courier New, Lucida Console}
